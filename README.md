@@ -13,7 +13,7 @@ This is a real-time analog clock built using HTML, CSS, and JavaScript.
   - `setInterval()` timing functions
 
 ## 📸 Preview
-![Clock Preview](preview.png)
+![Clock Preview](clock.png)
 
 ## 🚀 How to Run
 1. Clone this repo:
